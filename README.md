@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Surafel Fisseha</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
 <h2>💫 About Me:</h2> 
-<br>🌱 I’m currently learning- React, Node js and Machine Learning<br>💬 Ask me about- surafel.fiss@gmail.com<br>
+
+🌱 I’m currently learning -React, Node.js, and Machine Learning
+ <br>💬 Ask me about -Webdevelopment, Design
+<br>📫 How to reach me **surafel.fiss@mail.com**
 
 
-## 🌐 Socials:
+##  <h3 align="left">🌐Connect with me:</h3>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/surafel-fisseha-877039307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/SURAFEL_FISSEHA?t=oSWgPCJpXLdoJK1nCW6HSA&s=35) 
 
 # 💻 Tech Stack:
