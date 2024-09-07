@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surafel-fisseha&label=Profile%20views&color=0e75b6&style=flat" alt="surafel-fisseha" /> </p>
 💫 About Me:
 
-🔭 I’m currently working on Front-end Development <br>🤝 I’m looking for help collaborate Web Development <br>
+🔭 I’m currently working on Front-end Development <br>🤝 I’m looking for collaborate Web Development <br>
 -Wanna 💬? You can find me on <a href="mailto:surafel.fiss@gmail.com">📩Contact</a>
 
 
