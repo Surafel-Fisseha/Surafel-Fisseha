@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning -React, Node.js, and Machine Learning
  <br>💬 Ask me about -Webdevelopment, Design
-<br>Wanna 💬? You can find me on <a href="mailto:surafel.fiss@gmail.com">gmail</a>
+<br>Wanna 💬? You can find me on <a href="mailto:surafel.fiss@gmail.com">📩Contact</a>
 
 
 ##  <h3 align="left">🌐Connect with me:</h3>
