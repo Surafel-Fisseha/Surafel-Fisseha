@@ -4,7 +4,7 @@
 💫 About Me:
 
 🔭 I’m currently working on Front-end Development <br>🤝 I’m looking for help collaborate Web Development <br>
-<br>Wanna 💬? You can find me on <a href="mailto:surafel.fiss@gmail.com">📩Contact</a>
+-Wanna 💬? You can find me on <a href="mailto:surafel.fiss@gmail.com">📩Contact</a>
 
 
 ##  <h3 align="left">🌐Connect with me:</h3>
